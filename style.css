@@ -5,4 +5,9 @@ body{
       align-items: center;
       color: RGB(0,255,102);
       }
+/* 全体を囲うコンテナー */
+.container {
+  display: flex;
+  align-items: center;
+}
 
