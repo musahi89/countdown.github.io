@@ -4,3 +4,10 @@ body{
       background-color:#1b3006;
       color: RGB(0,255,102);
       }
+.clock {
+  font-family: 'Share Tech Mono', monospace;
+  color: #008c8b;
+  text-shadow: 0 0 20px #0aafe6;
+  line-height: 1.2;
+  
+}
