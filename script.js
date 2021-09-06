@@ -11,7 +11,7 @@ function tax_exam_day() {
  
     exam_day.setMonth(9);　//0~11で1月～12月を定義
     exam_day.setDate(17);
-    exam_day.setHours(15);
+    exam_day.setHours(13);
     exam_day.setMinutes(0);
     exam_day.setSeconds(0);
  
